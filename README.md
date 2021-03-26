@@ -1,4 +1,4 @@
-# Algoritma-genetika
+# Algoritma genetika
 
 Algorithm Includes : 
 - SPX Crossover Algorithm
