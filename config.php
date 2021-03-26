@@ -4,7 +4,7 @@
     $config["server"]='localhost';
     $config["username"]='root';
     $config["password"]='';
-    $config["database_name"]='ayowarung';
+    $config["database_name"]='';
     
     include'includes/db.php';
     $db = new DB($config['server'], $config['username'], $config['password'], $config['database_name']);
