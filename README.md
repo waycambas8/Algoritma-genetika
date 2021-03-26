@@ -14,4 +14,4 @@ Algorithm Includes :
 # How to use it
 
 - Open your localhost/YOUR_FILE_NAME
-- Explore what you find today :)
+- Explore what you find today and make the world are beautiful :)
